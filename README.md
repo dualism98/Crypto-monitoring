@@ -1,4 +1,4 @@
 # Crypto-monitoring
 Нативное приложение React Native, позволяющее тебе понять (немножко), когда покупаем, когда докупаем, когда фиксируем прибыль
 
-![](blob:https://i.yapx.ru/Hii9Z.gif)
+![](https://i.yapx.ru/Hii9Z.gif)
